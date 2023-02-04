@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#252831",
 		"settings.dropdownBackground": "#252831",
-		"descriptionForeground": "#252831",
+		"descriptionForeground": "#fff",
 		"list.activeSelectionBackground": "#252831",
 		"badge.background": "#252831",
 		"list.focusBackground": "#252831",

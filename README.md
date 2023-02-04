@@ -1,10 +1,10 @@
 
-# bTheme vs code v0.0.4
+# bTheme vs code v0.0.5
 
 a bTree dark theme to vs code
 
 
-![Example](https://github.com/BtreeDevelopers/vsco-theme/blob/main/example.png)
+![Example](https://raw.githubusercontent.com/BtreeDevelopers/vsco-theme/main/example.png)
 
 ## Colors
 
