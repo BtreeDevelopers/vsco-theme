@@ -1,0 +1,24 @@
+{
+  "name": "btheme",
+  "displayName": "bTheme",
+  "description": "a bTree dark theme for vs code",
+  "icon": "images/btheme.png",
+  "version": "0.0.2",
+  "publisher": "bTree",
+  "keywords": ["btree", "bTheme"],
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bTheme-color-theme.json"
+      }
+    ]
+  }
+}
