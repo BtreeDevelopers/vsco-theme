@@ -2,10 +2,19 @@
 	"name": "bTheme",
 	"colors": {
 		"editor.background": "#252831",
+		"settings.dropdownBackground": "#252831",
+		"descriptionForeground": "#252831",
+		"list.activeSelectionBackground": "#252831",
+		"badge.background": "#252831",
+		"list.focusBackground": "#252831",
+		"list.dropBackground": "#252831",
+		"list.filterMatchBackground": "#252831",
+		"notificationCenterHeader.background": "#252831",
 		"menubar.selectionBackground": "#252831",
 		"titleBar.activeBackground": "#161922",
 		"commandCenter.background": "#252831",
-		"activityBarBadge.background": "#FE5050",
+		"activityBarBadge.background": "#5093FE",
+		"tab.activeBorderTop": "#5093FE",
 		"activityBar.background": "#252831",
 		"editor.foreground": "#fff",
 		"activityBar.foreground": "#E5E6E8",
@@ -16,6 +25,24 @@
 		"editorGroupHeader.tabsBackground": "#161922",
 		"tab.activeBackground": "#252831",
 		"tab.inactiveBackground": "#202431",
+		"sideBar.foreground": "#fff",
+		"menu.background": "#252831",
+		"input.placeholderForeground": "#252831",
+		"sash.hoverBorder": "#252831",
+		"menu.separatorBackground": "#161922",
+		"keybindingLabel.background": "#161922",
+		"editor.findMatchBackground": "#161922",
+		"editor.wordHighlightBorder": "#161922",
+		"editor.findMatchHighlightBackground": "#161922",
+		"button.background": "#5093FE",
+		"editorWidget.border": "#5093FE",
+		"input.background": "#252831",
+		"selection.background": "#252831",
+		"dropdown.background": "#252831",
+		"banner.background": "#252831",
+		"editorWidget.background": "#161922",
+		"dropdown.listBackground": "#161922",
+		"input.foreground": "#fff",
 		"sideBarTitle.foreground": "#E5E6E8"
 	},
 	"tokenColors": [
@@ -78,12 +105,20 @@
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#F1FA8C"
+			}
+		},
+		{
+			"name": "Operator html",
+			"scope": [
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
 				"foreground": "#fff"
@@ -160,7 +195,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#F1FA8C"
+				"foreground": "#F1FA8C",
 			}
 		},
 		{
@@ -177,6 +212,16 @@
 			],
 			"settings": {
 				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Param",
+			"scope": [
+				"variable.parameter.js",
+				"variable.other.object.js"
+			],
+			"settings": {
+				"foreground": "#FF8A00"
 			}
 		},
 		{
