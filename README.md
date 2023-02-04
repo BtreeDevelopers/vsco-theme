@@ -4,7 +4,7 @@
 a bTree dark theme to vs code
 
 
-![Example](https://raw.githubusercontent.com/BtreeDevelopers/vsco-theme/main/example.png?token=GHSAT0AAAAAAB5I2DVAC3TPDEUY6TZ7LBKSY66PSIQ)
+![Example](https://github.com/BtreeDevelopers/vsco-theme/blob/main/example.png)
 
 ## Colors
 
