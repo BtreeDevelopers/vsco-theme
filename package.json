@@ -3,7 +3,7 @@
   "displayName": "bTheme",
   "description": "a bTree dark theme for vs code",
   "icon": "images/btheme.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "bTree",
   "keywords": ["btree", "bTheme"],
   "engines": {
