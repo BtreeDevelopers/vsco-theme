@@ -1,5 +1,5 @@
 
-# bTheme vs code v0.0.3
+# bTheme vs code v0.0.4
 
 a bTree dark theme to vs code
 
