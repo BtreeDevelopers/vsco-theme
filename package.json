@@ -3,8 +3,12 @@
   "displayName": "bTheme",
   "description": "a bTree dark theme for vs code",
   "icon": "images/btheme.png",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "bTree",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BtreeDevelopers/vsco-theme"
+  },
   "keywords": [
     "btree",
     "bTheme"
